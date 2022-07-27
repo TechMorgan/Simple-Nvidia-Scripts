@@ -1,4 +1,4 @@
-# Simple Nvidia Scripts
+# Simple Nvidia Scripts For Windows
 Tools to clean nvidia caches, installer leftovers and firewall block.
 ### Nvidia_Cache_Clean  
 - Cleans Nvidia caches
