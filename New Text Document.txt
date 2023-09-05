@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi
 now created and now on test_branch
 another_test
@@ -5,3 +6,6 @@ another_test
 ANOTHER TEST
 
 NOW FINAL
+=======
+ANOTHER TEST VErsion 2
+>>>>>>> another_test
