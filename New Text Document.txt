@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-Hi
-now created and now on test_branch
-another_test
-
-ANOTHER TEST
-
-NOW FINAL
-=======
-ANOTHER TEST VErsion 2
->>>>>>> another_test
+Master
+Now merged test_branch
+Now going to merge another_branch
