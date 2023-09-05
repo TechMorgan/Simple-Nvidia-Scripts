@@ -10,7 +10,7 @@ CString InputFamilyName;
 CString InputGivenName;
 CString FullName;
 CString OutputLine;
-printf("Please hi enter the given name and family name : ");
+printf("pudhsuuse : ");
 scanf(" %s %s",InputGivenName,InputFamilyName);
 SetNames(InputFamilyName,InputGivenName,&MyPerson);
 GetFullName(MyPerson,FullName);
